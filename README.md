@@ -1,2 +1,1 @@
-# TinDog
-Udemy training
+TinDog Starting Files
